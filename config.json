@@ -4,5 +4,7 @@
     "effects", "easier", "themes", "madeof", "scripts1",
     "scripts2", "sum", "thanks"
   ],
+  "title":        "Shining Intro",
+  "theme":        "default",
   "transitions":  true
 }
